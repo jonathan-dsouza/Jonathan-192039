@@ -1,0 +1,2 @@
+line 1 by master
+line 2 by trouble_master-trouble_branch
